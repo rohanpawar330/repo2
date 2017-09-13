@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 6A62-3D11
+
+ Directory of C:\Users\Azure\Desktop\my project
+
+13-09-2017  12:33 PM    <DIR>          .
+13-09-2017  12:33 PM    <DIR>          ..
+13-09-2017  12:33 PM                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  176,798,351,360 bytes free
